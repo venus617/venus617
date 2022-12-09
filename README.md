@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=venus617&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# 💫 About Me: 
 **Sr. Software Engineer (React, React Native, Crypto)**<br>
 I am a senior Full-Stack Developer with about 7 years of professional experience in software industry. I am a lifelong learner who is obsessed with programming and computer science. I love a challenge and I love to learn and that is what draws me to this field. My goal is to have a lifelong career in the field as a Senior Software Developer and to be able to help others achieve their goals within the field.<br>
 
