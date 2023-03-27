@@ -1,8 +1,16 @@
 [![](https://visitcount.itsvg.in/api?id=venus617&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me: 
-**Sr. Software Developer (React, Node, TypeScript)**<br>
-Experienced Software Engineer with 7 years of professional experience in different tech stacks. A lifelong learner who is obsessed with programming and computer science. Highly skilled in designing and developing software architecture. Strong technical aptitude with firsthand creativity experience, capable of designing and developing systems efficiently initiative-taking, keen in learning new skills.
+**Sr. Full-stack Developer (React, Node, Express.js, TypeScript)**<br>
+Experienced full-stack developer with over 7 years of professional experience. Skilled in developing scalable and high-performance web applications using React, Node.js, Express.js, MongoDB, ES6+, HTML5/CSS3, and other front-end and back-end technologies. Strong experience in Agile development methodologies and full software development life cycle. Proven track record of delivering high-quality software solutions on time.
+
+Technical Skills:
+• Proficient in full-stack web development
+• Strong experience in React, Node.js, Express.js, MongoDB, ES6+, HTML5/CSS3
+• Strong experience in database design and management using MongoDB
+• Familiarity with AWS, Docker, and Git
+• Experience in Agile development methodologies
+• Strong problem-solving and analytical skills
 
 
 # 💻 Tech Stack:
