@@ -4,17 +4,17 @@
 **Sr. Full-Stack Developer (React, React Native, Node.js, Web3, Python/Django)**<br>
 Experienced full-stack developer with over 8 years of professional experience. Skilled in developing scalable and high-performance web applications using React, React Native, Node.js, Express.js, MongoDB, Next.js, Web3, ES6+, HTML5/CSS3, and other front-end and back-end technologies. Strong experience in Agile development methodologies and full software development life cycle. Proven track record of delivering high-quality software solutions on time.
 
-Technical Skills:
-• Languages: JavaScript, TypeScript, Python, Java, PHP, C#
-• Frameworks/Libraries: React, React Native, Node.js, Express.js, Next.js, Django, Spring, .NET Core, Laravel
-• Testing Frameworks: Jest, Enzyme, Cypress
-• Databases: MongoDB, MySQL, PostgreSQL, SQL Server
-• Cloud Technologies: AWS (Lambda, API Gateway, S3, CloudFront, DynamoDB), Azure
-• Containerization: Docker, Kubernetes
-• Blockchain Technologies: Web3, Ethereum, Solidity
-• Build Tools: Webpack, npm, Yarn
-• Version Control Systems: Git
-• Operating Systems: Windows, Linux, macOS
+Technical Skills:\
+• Languages: JavaScript, TypeScript, Python, Java, PHP, C#\
+• Frameworks/Libraries: React, React Native, Node.js, Express.js, Next.js, Django, Spring, .NET Core, Laravel\
+• Testing Frameworks: Jest, Enzyme, Cypress\
+• Databases: MongoDB, MySQL, PostgreSQL, SQL Server\
+• Cloud Technologies: AWS (Lambda, API Gateway, S3, CloudFront, DynamoDB), Azure\
+• Containerization: Docker, Kubernetes\
+• Blockchain Technologies: Web3, Ethereum, Solidity\
+• Build Tools: Webpack, npm, Yarn\
+• Version Control Systems: Git\
+• Operating Systems: Windows, Linux, macOS\
 
 
 
