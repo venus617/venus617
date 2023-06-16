@@ -1,12 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=venus617&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me: 
-**Sr. Full-Stack Developer (React, React Native, Node.js, Web3, Python/Django)**<br>
-Experienced full-stack developer with over 8 years of professional experience. Skilled in developing scalable and high-performance web applications using React, React Native, Node.js, Express.js, MongoDB, Next.js, Web3, ES6+, HTML5/CSS3, and other front-end and back-end technologies. Strong experience in Agile development methodologies and full software development life cycle. Proven track record of delivering high-quality software solutions on time.
+**Senior Web & React Architect | React Native & Node.js Specialist | Mobile Experience Expert**<br>
+Senior Software Developer with over 8 years of experience in developing high-quality applications using React.js, Node.js, and React Native. Demonstrated leadership in driving projects from inception to completion, with a track record of creating efficient, scalable applications. Seeking to apply innovative problem-solving skills to create impactful software solutions.
 
 Technical Skills:\
-• Languages: JavaScript, TypeScript, Python, Java, PHP, C#\
-• Frameworks/Libraries: React, React Native, Node.js, Express.js, Next.js, Django, Spring, .NET Core, Laravel\
+• Languages: JavaScript, TypeScript, Python, PHP, C#\
+• Frameworks/Libraries: React, React Native, Node.js, Express.js, Next.js, Django, .NET Core, Laravel\
 • Testing Frameworks: Jest, Enzyme, Cypress\
 • Databases: MongoDB, MySQL, PostgreSQL, SQL Server\
 • Cloud Technologies: AWS (Lambda, API Gateway, S3, CloudFront, DynamoDB), Azure\
