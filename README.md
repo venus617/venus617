@@ -5,8 +5,8 @@
 Senior Software Developer with over 8 years of experience in developing high-quality applications using React.js, Node.js, and React Native. Demonstrated leadership in driving projects from inception to completion, with a track record of creating efficient, scalable applications. Seeking to apply innovative problem-solving skills to create impactful software solutions.
 
 Technical Skills:\
-• Languages: JavaScript, TypeScript, Python, PHP, C#\
-• Frameworks/Libraries: React, React Native, Node.js, Express.js, Next.js, Django, .NET Core, Laravel\
+• Languages: JavaScript, TypeScript, Python, PHP\
+• Frameworks/Libraries: React, React Native, Node.js, Express.js, Next.js, Django, Laravel\
 • Testing Frameworks: Jest, Enzyme, Cypress\
 • Databases: MongoDB, MySQL, PostgreSQL, SQL Server\
 • Cloud Technologies: AWS (Lambda, API Gateway, S3, CloudFront, DynamoDB), Azure\
@@ -14,7 +14,7 @@ Technical Skills:\
 • Blockchain Technologies: Web3, Ethereum, Solidity\
 • Build Tools: Webpack, npm, Yarn\
 • Version Control Systems: Git\
-• Operating Systems: Windows, Linux, macOS\
+• Operating Systems: Windows, Linux, macOS
 
 
 
